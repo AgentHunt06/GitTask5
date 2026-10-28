@@ -10,3 +10,7 @@ Remote repository and collaboration.
 - CSS
 - JavaScript
 - Git
+
+## prev prev 
+- Numpy
+- python
